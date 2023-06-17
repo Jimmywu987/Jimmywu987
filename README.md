@@ -33,8 +33,6 @@
     <img alt="Mongodb" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
     <img alt="Nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
     <img alt="Postgres" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
-    <img alt="Postman" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
-    <img alt="Prisma" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" ><img src="https://v4.material-ui.com/static/logo.png" alt="mui" width="40" height="40"/></a>
  </p>
