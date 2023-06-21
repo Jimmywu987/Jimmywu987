@@ -26,7 +26,6 @@
 <a href="https://www.typescriptlang.org/"><img src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" alt="typescript" width="40" height="40"></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
  <a href="https://nextjs.org/"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" alt="nextjs" width="40" height="40"></a>
-    <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
     <img alt="GraphQL" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" />
     <img alt="Firebase" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" />
