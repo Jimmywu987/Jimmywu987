@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jimmy-wu-11358ab9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"  alt="Linkedin" /></a>&nbsp;
 <a href="mailto:jimmywu987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
  <a href="https://github.com/Jimmywu987"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp; 
-  <a href="https://gitlab.com/jimmywu987"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="100" height="30"  alt="Email" /></a>&nbsp;
+
  
 </div>
 <br />
